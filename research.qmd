@@ -1,0 +1,111 @@
+---
+title: "Research and other work"
+include-in-header:
+  text: |
+    <style>
+    body::before {
+      background-image: url("images/background_2.jpg") !important;
+    }
+    </style>
+---
+
+## Overview
+
+My work as a researcher started right after finishing my law degree, and my first publication came even earlier, as a product of my undergraduate dissertation. 
+
+Most of my published work is theoretical and qualitative. Jointly, for these positions I have conducted more than 50 interviews with criminal justice professionals, including judges of the Supreme Court of Chile. I have also done observation of court hearings and some ethnography. Additionally I have designed several grant proposals, especially during my time at CEJA. I highlight a proposal for IDRC about conflict resolution in which I designed a mixed methods research that was granted half a million dollars. 
+
+I hope my quantitative pieces of work will be published soon, but there is a library I created to structure unestructured data available at my [Github](https://github.com/NcabreraM/pasqui/tree/master).
+
+## Research Positions
+
+**To what extent UK court decisions are taken into account by the European Court of Human Rights?** · Research assistant · Dr. Stefan Theil · Cambridge University · 2025
+
+**Novel Economic Pathways to AI Driven Conflict** · Researcher · Abra Ganz · MARS Programme · 2024–2025
+
+**FONDECYT 11221052: Danger to the security of society: An investigation into the determination of dangerousness in the use of pre-trial detention** · Research assistant · Dr. Javier Velásquez Valenzuela · Universidad de la Frontera · 2023
+
+**Justice Studies Center of the Americas** · Researcher · 2022–2023
+
+**An approach to therapeutic justice and prevention of criminal recidivism in Chile from the Drug Treatment Courts** · Research assistant · Dra. Jeanne Hersant · Pontificia Universidad Católica de Chile · 2021–2022
+
+**FONDECYT 1211763: An analysis of neurosciences reception in the Chilean Criminal Law** · Research assistant · Dr. Ricardo Camargo Brito · Universidad de Chile · 2022–2023
+
+**Tracing the history of dispersion projectiles in Chile** · Research assistant · Dr. Javier Velásquez Valenzuela · Universidad de la Frontera · 2021–2022
+
+**FONDECYT 11180839: Poverty, legality and punishment** · Research assistant · Dra. Rocío Lorca Ferreccio · Universidad de Chile · 2022
+
+**FONDECYT 11190123: New repertoires of public action: psychosocial professionals in the context of the family and criminal justice reforms in Chile** · Research assistant · Dra. Fabiola Miranda Pérez · Universidad Católica del Maule · 2020–2021
+
+## Publications
+
+Cabrera-Morales, N. (2025). [Policing Rape: The Way Forward. By Katrin Hohl and Elizabeth A. Stanko. Routledge, 2024.](https://doi.org/10.1108/JCP-09-2025-153) *Journal of Criminal Psychology*, 15(5), 655–657.
+
+Miranda Pérez, F., & Cabrera-Morales, N. (2024). [Genderisation of power-knowledge in Biobío justice system, Chile](https://periodicos.ufsc.br/index.php/ref/article/view/86572). *Revista de Estudos Feministas*, 32.
+
+Velásquez, J., Cabrera-Morales, N., & Sovino, M. (2023). [Overview of the withdrawal of the victim of sexual and domestic violence](https://www.researchgate.net/publication/375776840_PANORAMA_DE_LA_RETRACTACION_Y_EL_DESISTIMIENTO_DE_LA_VICTIMA_DE_VIOLENCIA_SEXUAL_E_INTRAFAMILIAR). In *Libro homenaje al profesor Luis Rodríguez Collao*. Editorial Jurídica de Chile.
+
+Whelsch, G., Cabrera-Morales, N., Apaza, M., & Rebolledo, D. (2022). [The situation of 10 countries of America and recommendations to strengthen the good practices and institutional culture](https://biblioteca.cejamericas.org/handle/2015/5710). In *Effective criminal defence with gender perspective in Latin America*. JSCA.
+
+Cabrera-Morales, N. (2022). [Book review: Hamilton, M. (2021). *Environmental Crime and Restorative Justice*](https://politcrim.com/wp-content/uploads/2022/07/Vol17N33R1.pdf). *Política criminal*, 17(33), 417–422.
+
+Velásquez, J., Cabrera-Morales, N., & Fernández, A. (2022). [Fragmented history of kinetic impact projectiles: The importance of studying the means](https://www.researchgate.net/publication/358131602_Historia_fragmentaria_de_los_Proyectiles_de_Impacto_de_Energia_Cinetica_La_relevancia_de_estudiar_los_medios). In Sánchez, R. et al. (Eds.), *Mutilación Ocular: Estudios Interdisciplinarios*. Tirant Lo Blanch, (1), 21–56.
+
+Henríquez Olivares, M., Delgadillo Campos, J., & Cabrera-Morales, N. (2021). [Life diaries as ethnographic material: design and implementation strategies](https://www.researchgate.net/publication/361005292_El_diario_de_vida_como_material_etnografico_estrategias_de_diseno_e_implementacion). *Revista Intervención*, 11(2), 163–188.
+
+Cabrera-Morales, N. (2019). [Is it necessary to punish prostitution? A feminist proposal for Chile.](http://dx.doi.org/10.4067/S0718-33992019000200095) *Política criminal*, 14(28), 95–151.
+
+---
+
+## Work in progress 
+
+Cabrera-Morales, N. Reclaiming the neighbourhood: effectiveness and politics of formal and informal controls on domestic violence in Bogotá.
+
+Cabrera-Morales, N., Miranda Pérez, F., & Figueroa, U. Emotional and efficient punishment. The incorporation of psychosocial professionals under managerialism in the Chilean criminal justice system.
+
+---
+
+## Conferences and Workshops
+
+**University of Reading, III Conference on Crime and Punishment in Latin America** · *Dissecting the theories of police misconduct* · 2026
+
+**Université Paris Nanterre, Preventive Security and State Structures** · *Meaning and scope of institutionalisation of police misconduc* · 2026
+
+**25th European Society of Criminology Conference** · *Police misconduct in Chile: What is the role of the institution?* · 2025
+
+**Summer School of Computational Social Sciences** · Lake Como · 2025
+
+**University of Warwick, II Conference on Crime and Punishment in Latin America** · *Police Misconduct in Chile. What is the role of the institution?* · 2025
+
+**24th Annual Conference of the European Society of Criminology** · *Policing the pandemic in Chile. What is the relationship between vulnerability and arrests in Chilean cities?* · 2024
+
+**Edinburgh University, II Conference on Crime and Punishment in Latin America** · *Police misconduct in Chile. What is the role of the institution and how have criminal courts framed it?* · 2023
+
+**Universidad de O'Higgins, I Jornadas Regionales de Estudios de Género** · *Gender, power and knowledge in criminal and family justice in Bío-Bío region* · 2022
+
+**Edinburgh University, Criminology Reading Group ** · *The irruption of the psychosocial in criminal justice; Disputed Logics* · 2021
+
+**National Conference on Philosophy of Law** · *Towards a feminist sexual ethics. Cosification and Prostitution. Legalize or abolish?* · 2018
+
+**II Congress of Female Criminologists and Criminal Lawyers of Chile** · *Prostitution a feminist proposal for Chile* · 2018
+
+**XXXVIII Colombian Procedural Law Congress** · *The rigidity of the procedural congruence principle and the relative effect of sentences as an obstacle to achieving the non-repetition guarantee in cases of sex-political violence in the Chilean dictatorship* · 2017
+
+**Universidad Austral, VII Law and Social Change Congress** · *Maternity at prisons, a gender perspective* · 2016
+
+---
+
+## Volunteer Work
+
+**Coordinator** · Protection appeal to ban rubber pellets in Valparaíso · 2019–2020
+
+**Consultant** · Bill proposal to prohibit the use of kinetic impact projectiles · 2019–2020
+
+**Co-founder and defendant** · Julieta Costa Sanguinetty counseling for victims of abuse and harassment inside the university · 2018–2020
+
+---
+
+## Internships
+
+**Valparaíso Regional Prosecutor's Office** · Trainee at Crime Analysis and Investigative Focuses Unit (organised crime analysis and prosecution) · 2019–2020
+---

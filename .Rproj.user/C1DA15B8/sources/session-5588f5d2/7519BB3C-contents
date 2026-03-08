@@ -1,0 +1,19 @@
+---
+title: "PhD"
+include-in-header:
+  text: |
+    <style>
+    body::before {
+      background-image: url("images/background_2.jpg") !important;
+    }
+    </style>
+---
+
+## Police Misconduct. What is the role of the institution?
+
+I am generally interested in macro-micro relationships in explaining crime systemically. I am curious about the misconduct of criminal justice institutions but also about exploring under what conditions they can promote (not control) crimes of citizens.
+
+Currently, my research focuses on police misconduct. I challenge individual and cultural explanations, and propose that the institution itself can promote the misconduct of its members. In this line, I propose a set of tests to identify the effect of the institution distinctively from individual and group factors. Misconduct is theorised as tool of government, and therefore presumably difficult to change without addressing top-down pressures. This work extends my Mphil dissertation (approved with a distinction) to the context of Germany, US and UK (in addition to Chile). 
+
+My project develops a set of falsifiable hypotheses, that I test using quantitative methods. However, qualitative methods are integrated to build categories, provide context, and sometimes, make arguments. I also use different programming tools to aid my research, especially, web scrapping and natural language processing (NER and LLMs). 
+---

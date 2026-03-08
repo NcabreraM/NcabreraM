@@ -1,0 +1,118 @@
+/*-- scss:rules --*/
+// Color variables
+$deepgreen: #0f3d2e;
+$deepred: #7a1f1f;
+$lightbg: #f6f7f5;
+
+// Global body styling
+body {
+  background-color: $lightbg;
+  font-family: "Georgia", serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+// Main content container
+main {
+  background-color: rgba(255, 255, 255, 0.75);
+  max-width: 1100px;
+  margin: 60px auto;
+  padding: 60px;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+// Headings
+h1, h2, h3 {
+  color: $deepgreen;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+// Links
+a {
+  color: $deepred;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: $deepgreen;
+}
+
+
+// Profile image styling
+.profile-image {
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 6px solid $deepgreen;
+  display: block;
+  margin: 0 auto 30px auto;
+}
+
+// Navbar links (if using Quarto navbar)
+.navbar {
+  a {
+    color: $deepgreen;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 20px;
+
+    &:hover {
+      color: $deepred;
+    }
+  }
+}
+
+.navbar .nav-link {
+  color: $deepgreen !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: $deepred !important;
+  border-bottom: 2px solid $deepred;
+}
+
+// Paragraph spacing
+p {
+  margin-bottom: 1.2em;
+}
+
+body {
+  background-image: url("images/background_1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  position: relative;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url("images/background_1.jpg");
+  background-size: cover;
+  background-position: center;
+  filter: blur(8px);
+  z-index: -1;
+  transform: scale(1.05); /* prevents blur edges from showing white */
+}
+
+body.page-sub::before {
+  background-image: url("images/background_2.jpg") !important;
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  filter: blur(0.6px);
+  z-index: -1;
+  transform: scale(1.05);
+}
