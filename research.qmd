@@ -11,9 +11,9 @@ include-in-header:
 
 ## Overview
 
-My work as a researcher started right after finishing my law degree, and my first publication came even earlier, as a product of my undergraduate dissertation. 
+My work as a researcher started right after finishing my law degree, and my first publication came even earlier, as a product of my undergraduate dissertation.
 
-Most of my published work is theoretical and qualitative. Jointly, for these positions I have conducted more than 50 interviews with criminal justice professionals, including judges of the Supreme Court of Chile. I have also done observation of court hearings and some ethnography. Additionally I have designed several grant proposals, especially during my time at CEJA. I highlight a proposal for IDRC about conflict resolution in which I designed a mixed methods research that was granted half a million dollars. 
+Most of my published work is theoretical and qualitative. Jointly, for these positions I have conducted more than 50 interviews with criminal justice professionals, including judges of the Supreme Court of Chile. I have also done observation of court hearings and some ethnography. Additionally I have designed several grant proposals, especially during my time at CEJA. I highlight a proposal for IDRC about conflict resolution in which I designed a mixed methods research that was granted half a million dollars.
 
 I hope my quantitative pieces of work will be published soon, but there is a library I created to structure unestructured data available at my [Github](https://github.com/NcabreraM/pasqui/tree/master).
 
@@ -55,15 +55,15 @@ Henríquez Olivares, M., Delgadillo Campos, J., & Cabrera-Morales, N. (2021). [L
 
 Cabrera-Morales, N. (2019). [Is it necessary to punish prostitution? A feminist proposal for Chile.](http://dx.doi.org/10.4067/S0718-33992019000200095) *Política criminal*, 14(28), 95–151.
 
----
+------------------------------------------------------------------------
 
-## Work in progress 
+## Work in progress
 
 Cabrera-Morales, N. Reclaiming the neighbourhood: effectiveness and politics of formal and informal controls on domestic violence in Bogotá.
 
 Cabrera-Morales, N., Miranda Pérez, F., & Figueroa, U. Emotional and efficient punishment. The incorporation of psychosocial professionals under managerialism in the Chilean criminal justice system.
 
----
+------------------------------------------------------------------------
 
 ## Conferences and Workshops
 
@@ -83,7 +83,7 @@ Cabrera-Morales, N., Miranda Pérez, F., & Figueroa, U. Emotional and efficient 
 
 **Universidad de O'Higgins, I Jornadas Regionales de Estudios de Género** · *Gender, power and knowledge in criminal and family justice in Bío-Bío region* · 2022
 
-**Edinburgh University, Criminology Reading Group ** · *The irruption of the psychosocial in criminal justice; Disputed Logics* · 2021
+**Edinburgh University, Criminology Reading Group** · *The irruption of the psychosocial in criminal justice; Disputed Logics* · 2021
 
 **National Conference on Philosophy of Law** · *Towards a feminist sexual ethics. Cosification and Prostitution. Legalize or abolish?* · 2018
 
@@ -93,7 +93,7 @@ Cabrera-Morales, N., Miranda Pérez, F., & Figueroa, U. Emotional and efficient 
 
 **Universidad Austral, VII Law and Social Change Congress** · *Maternity at prisons, a gender perspective* · 2016
 
----
+------------------------------------------------------------------------
 
 ## Volunteer Work
 
@@ -103,9 +103,8 @@ Cabrera-Morales, N., Miranda Pérez, F., & Figueroa, U. Emotional and efficient 
 
 **Co-founder and defendant** · Julieta Costa Sanguinetty counseling for victims of abuse and harassment inside the university · 2018–2020
 
----
+------------------------------------------------------------------------
 
 ## Internships
 
-**Valparaíso Regional Prosecutor's Office** · Trainee at Crime Analysis and Investigative Focuses Unit (organised crime analysis and prosecution) · 2019–2020
----
+## **Valparaíso Regional Prosecutor's Office** · Trainee at Crime Analysis and Investigative Focuses Unit (organised crime analysis and prosecution) · 2019–2020

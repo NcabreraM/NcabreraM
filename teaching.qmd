@@ -10,17 +10,17 @@ include-in-header:
     </style>
 ---
 
-My teaching is committedly participatory. My students one way or another are required to prepare before the session to be able to ask and respond to questions. I conceive my role as prompting knowledge but especially critical thinking; my interventions during teaching are, therefore, more questions than answers. I do not expect my students to know the answers but to be able to think with and against me. I believe this method helps instilling fundamental academic and work skills: tolerance to frustration and uncertainty, and responsibility. Two of my undergraduate professors influenced this style: [Luis Rodríguez Collao](https://editorial.tirant.com/cl/autorList/luis-rodriguez-collao-613268) and [Enzo Solari Alliende](https://www.pucv.cl/uuaa/centro-derecho/academicos/nucleo/enzo-solari-alliende). I owe them ability to think. 
+My teaching is committedly participatory. My students one way or another are required to prepare before the session to be able to ask and respond to questions. I conceive my role as prompting knowledge but especially critical thinking; my interventions during teaching are, therefore, more questions than answers. I do not expect my students to know the answers but to be able to think with and against me. I believe this method helps instilling fundamental academic and work skills: tolerance to frustration and uncertainty, and responsibility. Two of my undergraduate professors influenced this style: [Luis Rodríguez Collao](https://editorial.tirant.com/cl/autorList/luis-rodriguez-collao-613268) and [Enzo Solari Alliende](https://www.pucv.cl/uuaa/centro-derecho/academicos/nucleo/enzo-solari-alliende). I owe them ability to think.
 
 ## 2025-2026 University of Cambridge
 
-I currently supervise undergraduate students in the course of [Statistics and Methods]()https://www.cuqm.cshss.cam.ac.uk/CUQM%20Courses/Soc5).
+I currently supervise undergraduate students in the course of [Statistics and Methods]()(https://www.cuqm.cshss.cam.ac.uk/CUQM%20Courses/Soc5).
 
 During Michaelmas I was the teaching assistant of [Introduction to Quantitative Analysis](https://clanfear.github.io/ioc_iqa/_site/index.html). I was also an invited lecturer for Criminological Research Methods in the class of Critiquing Quantitative Research. Both for the Master's in Criminology
 
 ## 2024-2025 University of Cambridge
 
-I supervised undergraduate students in the course of Foundations in Criminology and Criminal Justice. 
+I supervised undergraduate students in the course of Foundations in Criminology and Criminal Justice.
 
 I was the teaching assistant of Introduction to Quantitative Analysis and an invited lecturer for Criminological Research Methods in the class of using LLMs, both for the Master's in Criminology.
 
@@ -38,7 +38,6 @@ I was the teaching assistant of Introduction to Quantitative Analysis and an inv
 
 **Legal Theory and Philosophy of Law** · Pontificia Universidad Católica de Valparaíso · TA · 2019
 
-**Criminal Law and Criminal Justice** · Pontificia Universidad Católica de Valparaíso · TA · 2016–2019
----
+## **Criminal Law and Criminal Justice** · Pontificia Universidad Católica de Valparaíso · TA · 2016–2019
 
 ## 

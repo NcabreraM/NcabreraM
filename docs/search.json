@@ -11,7 +11,7 @@
     "href": "teaching.html#university-of-cambridge",
     "title": "Teaching",
     "section": "2025-2026 University of Cambridge",
-    "text": "2025-2026 University of Cambridge\nI currently supervise undergraduate students in the course of Statistics and Methodshttps://www.cuqm.cshss.cam.ac.uk/CUQM%20Courses/Soc5).\nDuring Michaelmas I was the teaching assistant of Introduction to Quantitative Analysis. I was also an invited lecturer for Criminological Research Methods in the class of Critiquing Quantitative Research. Both for the Master’s in Criminology"
+    "text": "2025-2026 University of Cambridge\nI currently supervise undergraduate students in the course of Statistics and Methods(https://www.cuqm.cshss.cam.ac.uk/CUQM%20Courses/Soc5).\nDuring Michaelmas I was the teaching assistant of Introduction to Quantitative Analysis. I was also an invited lecturer for Criminological Research Methods in the class of Critiquing Quantitative Research. Both for the Master’s in Criminology"
   },
   {
     "objectID": "teaching.html#university-of-cambridge-1",
@@ -25,7 +25,14 @@
     "href": "teaching.html#before-2024",
     "title": "Teaching",
     "section": "Before 2024",
-    "text": "Before 2024\nLegal Skills · Universidad Adolfo Ibáñez · Lecturer · 2022\nTheory and Philosophy of Law · Pontificia Universidad Católica de Valparaíso · Guest Lecturer in Philosophy of Criminal Law and Feminist Theory · 2018–2020\nCriminology and Criminal Policy · Universidad de O’Higgins · TA · 2021\nCriminal Policy · Pontificia Universidad Católica de Chile · Postgraduate Diploma in Criminology · TA · 2021\nQualitative Methods for Social Research · Pontificia Universidad Católica de Chile · Postgraduate Diploma · TA · 2021\nLegal Theory and Philosophy of Law · Pontificia Universidad Católica de Valparaíso · TA · 2019\nCriminal Law and Criminal Justice · Pontificia Universidad Católica de Valparaíso · TA · 2016–2019"
+    "text": "Before 2024\nLegal Skills · Universidad Adolfo Ibáñez · Lecturer · 2022\nTheory and Philosophy of Law · Pontificia Universidad Católica de Valparaíso · Guest Lecturer in Philosophy of Criminal Law and Feminist Theory · 2018–2020\nCriminology and Criminal Policy · Universidad de O’Higgins · TA · 2021\nCriminal Policy · Pontificia Universidad Católica de Chile · Postgraduate Diploma in Criminology · TA · 2021\nQualitative Methods for Social Research · Pontificia Universidad Católica de Chile · Postgraduate Diploma · TA · 2021\nLegal Theory and Philosophy of Law · Pontificia Universidad Católica de Valparaíso · TA · 2019"
+  },
+  {
+    "objectID": "teaching.html#criminal-law-and-criminal-justice-pontificia-universidad-católica-de-valparaíso-ta-20162019",
+    "href": "teaching.html#criminal-law-and-criminal-justice-pontificia-universidad-católica-de-valparaíso-ta-20162019",
+    "title": "Teaching",
+    "section": "Criminal Law and Criminal Justice · Pontificia Universidad Católica de Valparaíso · TA · 2016–2019",
+    "text": "Criminal Law and Criminal Justice · Pontificia Universidad Católica de Valparaíso · TA · 2016–2019"
   },
   {
     "objectID": "poem.html",
@@ -60,14 +67,21 @@
     "href": "phd.html",
     "title": "PhD",
     "section": "",
-    "text": "I am generally interested in macro-micro relationships in explaining crime systemically. I am curious about the misconduct of criminal justice institutions but also about exploring under what conditions they can promote (not control) crimes of citizens.\nCurrently, my research focuses on police misconduct. I challenge individual and cultural explanations, and propose that the institution itself can promote the misconduct of its members. In this line, I propose a set of tests to identify the effect of the institution distinctively from individual and group factors. Misconduct is theorised as tool of government, and therefore presumably difficult to change without addressing top-down pressures. This work extends my Mphil dissertation (approved with a distinction) to the context of Germany, US and UK (in addition to Chile).\nMy project develops a set of falsifiable hypotheses, that I test using quantitative methods. However, qualitative methods are integrated to build categories, provide context, and sometimes, make arguments. I also use different programming tools to aid my research, especially, web scrapping and natural language processing (NER and LLMs)."
+    "text": "I am generally interested in macro-micro relationships in explaining crime systemically. I am curious about the misconduct of criminal justice institutions but also about exploring under what conditions they can promote (not control) crimes of citizens.\nCurrently, my research focuses on police misconduct. I challenge individual and cultural explanations, and propose that the institution itself can promote the misconduct of its members. In this line, I propose a set of tests to identify the effect of the institution distinctively from individual and group factors. Misconduct is theorised as tool of government, and therefore presumably difficult to change without addressing top-down pressures. This work extends my Mphil dissertation (approved with a distinction) to the context of Germany, US and UK (in addition to Chile)."
   },
   {
     "objectID": "phd.html#police-misconduct.-what-is-the-role-of-the-institution",
     "href": "phd.html#police-misconduct.-what-is-the-role-of-the-institution",
     "title": "PhD",
     "section": "",
-    "text": "I am generally interested in macro-micro relationships in explaining crime systemically. I am curious about the misconduct of criminal justice institutions but also about exploring under what conditions they can promote (not control) crimes of citizens.\nCurrently, my research focuses on police misconduct. I challenge individual and cultural explanations, and propose that the institution itself can promote the misconduct of its members. In this line, I propose a set of tests to identify the effect of the institution distinctively from individual and group factors. Misconduct is theorised as tool of government, and therefore presumably difficult to change without addressing top-down pressures. This work extends my Mphil dissertation (approved with a distinction) to the context of Germany, US and UK (in addition to Chile).\nMy project develops a set of falsifiable hypotheses, that I test using quantitative methods. However, qualitative methods are integrated to build categories, provide context, and sometimes, make arguments. I also use different programming tools to aid my research, especially, web scrapping and natural language processing (NER and LLMs)."
+    "text": "I am generally interested in macro-micro relationships in explaining crime systemically. I am curious about the misconduct of criminal justice institutions but also about exploring under what conditions they can promote (not control) crimes of citizens.\nCurrently, my research focuses on police misconduct. I challenge individual and cultural explanations, and propose that the institution itself can promote the misconduct of its members. In this line, I propose a set of tests to identify the effect of the institution distinctively from individual and group factors. Misconduct is theorised as tool of government, and therefore presumably difficult to change without addressing top-down pressures. This work extends my Mphil dissertation (approved with a distinction) to the context of Germany, US and UK (in addition to Chile)."
+  },
+  {
+    "objectID": "phd.html#my-project-develops-a-set-of-falsifiable-hypotheses-that-i-test-using-quantitative-methods.-however-qualitative-methods-are-integrated-to-build-categories-provide-context-and-sometimes-make-arguments.-i-also-use-different-programming-tools-to-aid-my-research-especially-web-scrapping-and-natural-language-processing-ner-and-llms.",
+    "href": "phd.html#my-project-develops-a-set-of-falsifiable-hypotheses-that-i-test-using-quantitative-methods.-however-qualitative-methods-are-integrated-to-build-categories-provide-context-and-sometimes-make-arguments.-i-also-use-different-programming-tools-to-aid-my-research-especially-web-scrapping-and-natural-language-processing-ner-and-llms.",
+    "title": "PhD",
+    "section": "My project develops a set of falsifiable hypotheses, that I test using quantitative methods. However, qualitative methods are integrated to build categories, provide context, and sometimes, make arguments. I also use different programming tools to aid my research, especially, web scrapping and natural language processing (NER and LLMs).",
+    "text": "My project develops a set of falsifiable hypotheses, that I test using quantitative methods. However, qualitative methods are integrated to build categories, provide context, and sometimes, make arguments. I also use different programming tools to aid my research, especially, web scrapping and natural language processing (NER and LLMs)."
   },
   {
     "objectID": "research.html",
@@ -109,7 +123,7 @@
     "href": "research.html#conferences-and-workshops",
     "title": "Research and other work",
     "section": "Conferences and Workshops",
-    "text": "Conferences and Workshops\nUniversity of Reading, III Conference on Crime and Punishment in Latin America · Dissecting the theories of police misconduct · 2026\nUniversité Paris Nanterre, Preventive Security and State Structures · Meaning and scope of institutionalisation of police misconduc · 2026\n25th European Society of Criminology Conference · Police misconduct in Chile: What is the role of the institution? · 2025\nSummer School of Computational Social Sciences · Lake Como · 2025\nUniversity of Warwick, II Conference on Crime and Punishment in Latin America · Police Misconduct in Chile. What is the role of the institution? · 2025\n24th Annual Conference of the European Society of Criminology · Policing the pandemic in Chile. What is the relationship between vulnerability and arrests in Chilean cities? · 2024\nEdinburgh University, II Conference on Crime and Punishment in Latin America · Police misconduct in Chile. What is the role of the institution and how have criminal courts framed it? · 2023\nUniversidad de O’Higgins, I Jornadas Regionales de Estudios de Género · Gender, power and knowledge in criminal and family justice in Bío-Bío region · 2022\nEdinburgh University, Criminology Reading Group  · The irruption of the psychosocial in criminal justice; Disputed Logics · 2021\nNational Conference on Philosophy of Law · Towards a feminist sexual ethics. Cosification and Prostitution. Legalize or abolish? · 2018\nII Congress of Female Criminologists and Criminal Lawyers of Chile · Prostitution a feminist proposal for Chile · 2018\nXXXVIII Colombian Procedural Law Congress · The rigidity of the procedural congruence principle and the relative effect of sentences as an obstacle to achieving the non-repetition guarantee in cases of sex-political violence in the Chilean dictatorship · 2017\nUniversidad Austral, VII Law and Social Change Congress · Maternity at prisons, a gender perspective · 2016"
+    "text": "Conferences and Workshops\nUniversity of Reading, III Conference on Crime and Punishment in Latin America · Dissecting the theories of police misconduct · 2026\nUniversité Paris Nanterre, Preventive Security and State Structures · Meaning and scope of institutionalisation of police misconduc · 2026\n25th European Society of Criminology Conference · Police misconduct in Chile: What is the role of the institution? · 2025\nSummer School of Computational Social Sciences · Lake Como · 2025\nUniversity of Warwick, II Conference on Crime and Punishment in Latin America · Police Misconduct in Chile. What is the role of the institution? · 2025\n24th Annual Conference of the European Society of Criminology · Policing the pandemic in Chile. What is the relationship between vulnerability and arrests in Chilean cities? · 2024\nEdinburgh University, II Conference on Crime and Punishment in Latin America · Police misconduct in Chile. What is the role of the institution and how have criminal courts framed it? · 2023\nUniversidad de O’Higgins, I Jornadas Regionales de Estudios de Género · Gender, power and knowledge in criminal and family justice in Bío-Bío region · 2022\nEdinburgh University, Criminology Reading Group · The irruption of the psychosocial in criminal justice; Disputed Logics · 2021\nNational Conference on Philosophy of Law · Towards a feminist sexual ethics. Cosification and Prostitution. Legalize or abolish? · 2018\nII Congress of Female Criminologists and Criminal Lawyers of Chile · Prostitution a feminist proposal for Chile · 2018\nXXXVIII Colombian Procedural Law Congress · The rigidity of the procedural congruence principle and the relative effect of sentences as an obstacle to achieving the non-repetition guarantee in cases of sex-political violence in the Chilean dictatorship · 2017\nUniversidad Austral, VII Law and Social Change Congress · Maternity at prisons, a gender perspective · 2016"
   },
   {
     "objectID": "research.html#volunteer-work",
@@ -123,6 +137,13 @@
     "href": "research.html#internships",
     "title": "Research and other work",
     "section": "Internships",
-    "text": "Internships\nValparaíso Regional Prosecutor’s Office · Trainee at Crime Analysis and Investigative Focuses Unit (organised crime analysis and prosecution) · 2019–2020"
+    "text": "Internships"
+  },
+  {
+    "objectID": "research.html#valparaíso-regional-prosecutors-office-trainee-at-crime-analysis-and-investigative-focuses-unit-organised-crime-analysis-and-prosecution-20192020",
+    "href": "research.html#valparaíso-regional-prosecutors-office-trainee-at-crime-analysis-and-investigative-focuses-unit-organised-crime-analysis-and-prosecution-20192020",
+    "title": "Research and other work",
+    "section": "Valparaíso Regional Prosecutor’s Office · Trainee at Crime Analysis and Investigative Focuses Unit (organised crime analysis and prosecution) · 2019–2020",
+    "text": "Valparaíso Regional Prosecutor’s Office · Trainee at Crime Analysis and Investigative Focuses Unit (organised crime analysis and prosecution) · 2019–2020"
   }
 ]
