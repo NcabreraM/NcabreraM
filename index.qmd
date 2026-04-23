@@ -15,7 +15,7 @@ I am a Chilean [PhD candidate](https://www.crim.cam.ac.uk/people/natalia-cabrera
 
 I graduated from law in the top 10% of the cohort. I was the second best student of the MPhil in Criminological Research (2023-2024), being appointed as Manuel López-Rey proxime accesserunt, and an Emily Davis Scholar at Girton College. I studied my MPhil with a full scholarship from ANID-Cambridge trust and I am fully funded by Cambridge Trust for my PhD.
 
-My [PhD research](phd.qmd) focuses on police misconduct but I am generally interested in criminal justice institutions, under the supervision of [Dr. Charles Lanfear](https://clanfear.github.io/).
+My [PhD research](phd.qmd) focuses on police misconduct but I am generally interested in criminal justice institutions. My supervisor is [Dr. Charles Lanfear](https://clanfear.github.io/).
 
 Further [projects](research.qmd) involve gender and crime against women. 
 
