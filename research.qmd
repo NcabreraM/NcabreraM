@@ -17,6 +17,9 @@ Most of my published work is theoretical and qualitative. Jointly, for these pos
 
 I hope my quantitative pieces of work will be published soon, but there is a library I created to structure unestructured data available on my [Github](https://github.com/NcabreraM/pasqui/tree/master).
 
+
+In winter 2025-2026 I received a scholarship for an academic visit at the Max Planck Institute for Crime, Security and Law. In summer 2025 I was selected to participate in the [Summer School of Computational Social Sciences](https://sicss.io/2025/lake-como/) in Lake Como.
+
 ## Research Positions
 
 **To what extent UK court decisions are taken into account by the European Court of Human Rights?** · Research assistant · Dr. Stefan Theil · Cambridge University · 2025
