@@ -13,9 +13,9 @@ include-in-header:
 
 My work as a researcher started right after finishing my law degree, and my first publication came even earlier, as a product of my undergraduate dissertation.
 
-Most of my published work is theoretical and qualitative. Jointly, for these positions I have conducted more than 50 interviews with criminal justice professionals, including judges of the Supreme Court of Chile. I have also done observation of court hearings and some ethnography. Additionally I have designed several grant proposals, especially during my time at CEJA. I highlight a proposal for IDRC about conflict resolution in which I designed a mixed methods research that was granted half a million dollars.
+Most of my published work is theoretical and qualitative. Jointly, for these positions I carried out more than 50 interviews with criminal justice professionals, including judges of the Supreme Court of Chile. I further conducted observations of court hearings and ethnography. Additionally I designed several successful grant proposals. During my time at JSCA I drafted a proposal for IDRC that was granted half a million dollars. The project investigated conflict resolution using mixed methods.
 
-I hope my quantitative pieces of work will be published soon, but there is a library I created to structure unestructured data available at my [Github](https://github.com/NcabreraM/pasqui/tree/master).
+I hope my quantitative pieces of work will be published soon, but there is a library I created to structure unestructured data available on my [Github](https://github.com/NcabreraM/pasqui/tree/master).
 
 ## Research Positions
 
@@ -61,7 +61,7 @@ Cabrera-Morales, N. (2019). [Is it necessary to punish prostitution? A feminist 
 
 Cabrera-Morales, N. Reclaiming the neighbourhood: effectiveness and politics of formal and informal controls on domestic violence in Bogotá.
 
-Cabrera-Morales, N., Miranda Pérez, F., & Figueroa, U. Emotional and efficient punishment. The incorporation of psychosocial professionals under managerialism in the Chilean criminal justice system.
+Cabrera-Morales, N., Miranda Pérez, F., Figueroa, U. & Rojas, c.Emotional and efficient punishment. The incorporation of psychosocial professionals under managerialism in the Chilean criminal justice system.
 
 ------------------------------------------------------------------------
 
@@ -92,16 +92,6 @@ Cabrera-Morales, N., Miranda Pérez, F., & Figueroa, U. Emotional and efficient 
 **XXXVIII Colombian Procedural Law Congress** · *The rigidity of the procedural congruence principle and the relative effect of sentences as an obstacle to achieving the non-repetition guarantee in cases of sex-political violence in the Chilean dictatorship* · 2017
 
 **Universidad Austral, VII Law and Social Change Congress** · *Maternity at prisons, a gender perspective* · 2016
-
-------------------------------------------------------------------------
-
-## Volunteer Work
-
-**Coordinator** · Protection appeal to ban rubber pellets in Valparaíso · 2019–2020
-
-**Consultant** · Bill proposal to prohibit the use of kinetic impact projectiles · 2019–2020
-
-**Co-founder and defendant** · Julieta Costa Sanguinetty counseling for victims of abuse and harassment inside the university · 2018–2020
 
 ------------------------------------------------------------------------
 

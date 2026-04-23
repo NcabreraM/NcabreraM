@@ -13,7 +13,18 @@ website:
         href: research.qmd
       - text: Teaching
         href: teaching.qmd
-
+      - text: About me
+        href: me.qmd
+    right:
+      - icon: github
+        href: https://github.com/NcabreraM
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ncabrera-morales/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:nc606@cam.ac.uk
+        aria-label: Email
 
 format:
   html:
@@ -22,3 +33,4 @@ format:
       - styles.scss
 
 editor: visual
+
