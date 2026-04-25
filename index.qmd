@@ -17,7 +17,7 @@ I graduated from law in the top 10% of the cohort. I was the second best student
 
 My [PhD research](phd.qmd) focuses on police misconduct but I am generally interested in criminal justice institutions. My supervisor is [Dr. Charles Lanfear](https://clanfear.github.io/).
 
-Further [projects](research.qmd) involve gender and crime against women. 
+Further [projects](research.qmd) involve gender violence and crimes against women. 
 
 I am passionate about methodology, having experience in practice and teaching with both quantitative and qualitative methods. I am a mostly self-taught programmer, working in R and Python. However, one of my favourite academic activities is [teaching](teaching.qmd).
 

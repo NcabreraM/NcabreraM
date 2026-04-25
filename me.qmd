@@ -14,7 +14,7 @@ include-in-header:
 <img src="images/pasqui.jpg" class="profile-image"/> 
 
 I have a small dog whose name is Pasqui. She is my best friend and constant companion. 
-I grew up between two countryside towns close to the mountains in Chile [Los Andes](https://en.wikipedia.org/wiki/Los_Andes,_Chile) and [Calle Larga](https://en.wikipedia.org/wiki/Calle_Larga), at 17 I moved to [Valparaíso](https://www.youtube.com/watch?v=yHb7M94qVHs) which I consider my hometown. My mom was a nutritionist in a rural health centre, so I grew up accompanying her at work and seeing her interact with her patients with care and interest. My mom was always the economic head of the household.
+I grew up between two countryside towns close to the mountains in Chile [Los Andes](https://en.wikipedia.org/wiki/Los_Andes,_Chile) and [Calle Larga](https://en.wikipedia.org/wiki/Calle_Larga). At 17 I moved to [Valparaíso](https://www.youtube.com/watch?v=yHb7M94qVHs) which I consider my hometown. My mom was a nutritionist in a rural health centre, so I grew up accompanying her at work and seeing her interact with her patients with care and interest. My mom was always the economic head of the household.
 :::
 
 :::: {style="display:flex; align-items:center; gap:60px; margin-top:60px;"}
